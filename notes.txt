@@ -1,0 +1,16 @@
+Notes
+======
+
+Followed this to get environment set up:
+http://jmfurlott.com/tutorial-setting-up-a-single-page-react-web-app-with-react-router-and-webpack/
+
+npm init
+npm install --save-dev react webpack react-router react-hot-loader webpack-dev-server babel-loader
+npm install react-bootstrap
+npm start
+npm run build
+npm start
+
+
+Facebook flux app example - useful for file organization
+https://github.com/facebook/flux/tree/master/examples/flux-chat/js
