@@ -28,7 +28,7 @@ var ProductTitle = React.createClass({
 var ProductImage = React.createClass({
   render: function() {
     return (
-      <div className="ProductImage">
+      <div className="productImage">
         <img src={this.props.image.url} width="100px" height="100px" />
       </div>
     );
@@ -45,7 +45,7 @@ var ProductDetails = React.createClass({
       );
     });
     return (
-      <div className="ProductDetails">
+      <div className="productDetails">
         {productDetailNodes}
       </div>
     );

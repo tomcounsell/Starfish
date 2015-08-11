@@ -9,7 +9,7 @@ var Navigation = require('./components/Navigation');
 var App = React.createClass({
   render: function () {
     return (
-      <div className="nav">
+      <div className="app">
         
         <Navigation />
 

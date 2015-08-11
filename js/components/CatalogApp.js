@@ -36,7 +36,7 @@ function getData() {
       new: false,
       on_sale: true,
       details: [
-        {type: "Price", text: "$1"},
+        {type: "Price", text: "$10"},
         {type: "Shipping", text: "$0"},
         {type: "Qualifier", text: "In Stock"}
       ]
